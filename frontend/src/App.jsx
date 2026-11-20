@@ -14,9 +14,9 @@ function App() {
   const [selectedId, setSelectedId] = useState("");
 
   const [candidates, setCandidates] = useState([
-    { id: 1, name: "Alice", voteCount: 12 },
-    { id: 2, name: "Bob", voteCount: 8 },
-    { id: 3, name: "Charlie", voteCount: 5 },
+    { id: 1, name: "wdmm", voteCount: 19 },
+    { id: 2, name: "ddd", voteCount: 8 },
+    { id: 3, name: "666", voteCount: 5 },
   ]);
 
   // 从合约中获取候选人真实数据
